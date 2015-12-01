@@ -1,6 +1,6 @@
 body {
     background-color: #bdc3c7;
-}  
+}
 
 #my-header {
     background-color: #2c3e50;
@@ -16,16 +16,14 @@ body {
     font-size: 25px;
 }
 
-
 .title {
     font-family: 'Lobster', cursive;
     color: #7f8c8d;
-    font-size: 40px;
+    font-size: 45px;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 40px;
 }
-
 
 .email {
     font-family: 'Lobster Two', cursive;
@@ -35,7 +33,29 @@ body {
     padding: 0px 40px 20px 0px;
 }
 
-#fa fa-terminal {
-    font-size: 40px;
-    color: #95a5a6;
+.logo-graph {
+    font-size: 80px;
+    text-align: center;
 }
+
+#Objectifs {
+    text-align: center;
+}
+
+.titre1 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+}
+
+#Experience {
+    text-align: center;
+}
+
+.titre2 {
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+}
+
+.logo-grade {
+    font-size: 80px;
+    text-align: center;
